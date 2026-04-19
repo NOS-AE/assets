@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 600 315" height="315" width="600">
+<rect fill="#F9F7F6" height="315" width="600"></rect>
+<rect fill="#EEEBEA" transform="rotate(-90 350 158)" rx="50" height="100" width="100" y="158" x="350"></rect>
+<rect fill="#DAD6D5" transform="rotate(-90 250 258)" rx="50" height="200" width="100" y="258" x="250"></rect>
+<rect fill="#EEEBEA" transform="rotate(180 250 258)" rx="50" height="100" width="100" y="258" x="250"></rect>
+<path fill="#DAD6D5" d="M250 58C194.76 58 150 102.76 150 158L250 158L250 58Z"></path>
+<rect fill="#EEEBEA" transform="rotate(180 350 158)" height="100" width="100" y="158" x="350"></rect>
+</svg>
